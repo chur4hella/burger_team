@@ -29,7 +29,7 @@ Makefile
 
 doc-dev
 
-#.env.dev
-#entrypoint.sh
+.env.dev
+entrypoint.sh
 docker-compose.yml
 docker-compose-old.yml
